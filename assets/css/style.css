@@ -1,0 +1,53 @@
+body {
+  margin: 10px;
+  padding: 10px;
+}
+
+header h1 {
+  background-image: linear-gradient(to right, rgb(27, 212, 245), rgb(9, 9, 49));
+  color: white;
+  text-align: center;
+  padding: 15px;
+  }
+
+#left-column input {
+  width: 100%;  
+}
+
+#searchBtn {
+  margin-top: 10px;
+  width: 100%;
+  }
+
+  .line {
+      border-bottom: grey solid 1px;
+      padding: 5px;
+      margin-bottom: 5px;
+  }
+
+  #search-history .button {
+      justify-content: left;
+      background: rgb(182, 181, 181);
+      border: none;
+      color: black;
+      margin-top: 10px;
+      text-align: center;
+      width:100%;
+  }
+
+  #right-column {
+      margin-top: 5px;
+  }
+
+  .card-img-top {
+      max-width: 100px;
+      max-height: 100px;
+  }
+
+.card-title {
+  font-size: medium;
+}
+
+.card-body {
+  font-size: small;
+}
